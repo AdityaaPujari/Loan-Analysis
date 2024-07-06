@@ -74,7 +74,9 @@ In conclusion, the insights gathered from this project shed light on various asp
 
 Overall, these insights contribute to a more nuanced understanding of loan applicants' characteristics, allowing financial institutions to develop tailored loan products, assess borrower risk more effectively, and provide inclusive financial solutions that cater to the diverse needs of their clients. By leveraging these insights, lenders can enhance their decision-making processes, promote responsible lending practices, and support the financial well-being of their customers.
 
-
+> Links:
+* Excel Links: https://docs.google.com/spreadsheets/d/1wTnUi9GTosytdV32x4pxwPy7MJRzPiMd/edit?usp=sharing&ouid=110939610603926904152&rtpof=true&sd=true
+* Pdf: https://drive.google.com/file/d/1r8q8wNpByXBMlmPqQfe0Hxmp4iP0YdHq/view?usp=drive_link
 
 
 
