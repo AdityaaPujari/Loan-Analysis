@@ -1,4 +1,7 @@
+
+![finance-4858797_1280](https://github.com/AdityaaPujari/Loan-Analysis/assets/131788257/56266b2b-f4a9-4e13-90ac-d9da5146631d)
 # Loan-Analysis
+
 ## 1. Project Description :
 The main aim of this project is to identify patterns that indicate if a customer will have difficulty paying their instalments. This information can be used to make decisions such as denying the loan, reducing the amount of loan, or lending at a higher interest rate to risky applicants. The company wants to understand the key factors behind loan default so it can make better decisions about loan approval.
 The primary objective of this project is to utilize Exploratory Data Analysis (EDA) techniques to identify patterns within loan application data that indicate the likelihood of loan defaults.
